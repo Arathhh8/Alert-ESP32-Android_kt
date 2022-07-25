@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "799297781719",
+    "project_id": "esp32alarm-5dc41",
+    "storage_bucket": "esp32alarm-5dc41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799297781719:android:14b96fd024121445475592",
+        "android_client_info": {
+          "package_name": "com.example.connecttofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799297781719-mve065tu3mkmrrrmf3ad08eqdfl7fbrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWirT69iWPxM7-fKB-EL8GDPI4tJUPZrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799297781719-mve065tu3mkmrrrmf3ad08eqdfl7fbrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799297781719:android:0821e46e59af1dec475592",
+        "android_client_info": {
+          "package_name": "com.example.esp32alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799297781719-0p6q1ut49bndlnb8pg6826gpkn01f50k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.esp32alarm",
+            "certificate_hash": "885b39f7369fcd1c44128fe5270c1d7b0eb83ab3"
+          }
+        },
+        {
+          "client_id": "799297781719-mve065tu3mkmrrrmf3ad08eqdfl7fbrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWirT69iWPxM7-fKB-EL8GDPI4tJUPZrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799297781719-mve065tu3mkmrrrmf3ad08eqdfl7fbrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
